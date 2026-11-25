@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/logo.svg" alt="MedTrust logo" width="120" />
-</p>
 
 <h1 align="center">MedTrust</h1>
 
@@ -167,8 +164,8 @@ MedTrust's registry checks depend on partner hospitals and labs sharing e-prescr
 
 | Name | Focus |
 |------|-------|
-| **Akshita K** | Cybersecurity, networks, data science: fraud detection logic, registry cross-checks, authentication and security, deployment |
-| **Akshita H** | AI/ML: Gemini Pro integration, document extraction pipeline, medical relevance model |
+| **Akshita Kushwaha** |networks, data science: fraud detection logic, registry cross-checks, authentication and security |
+| **Akshita Hada** | AI/ML: Gemini Pro integration, document extraction pipeline, medical relevance model |
 | **Ami** | Full stack: website, backend API, database, documentation |
 
 ## License
